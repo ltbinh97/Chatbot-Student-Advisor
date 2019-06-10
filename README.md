@@ -1,169 +1,86 @@
-# Flask-RESTful API project template
+[![Build Status](https://travis-ci.org/edonosotti/ci-cd-tutorial-sample-app.svg?branch=master)](https://travis-ci.org/edonosotti/ci-cd-tutorial-sample-app)
+[![codebeat badge](https://codebeat.co/badges/0e006c74-a2f9-4f34-9cf4-2378fb7d995a)](https://codebeat.co/projects/github-com-edonosotti-ci-cd-tutorial-sample-app-master)
+[![Maintainability](https://api.codeclimate.com/v1/badges/e14a2647843de209fd5e/maintainability)](https://codeclimate.com/github/edonosotti/ci-cd-tutorial-sample-app/maintainability)
 
-This project shows one of the possible ways to implement RESTful API server.
+# CD/CI Tutorial Sample Application
 
-There are implemented two models: User and Todo, one user has many todos.
+## Description
 
-Main libraries used:
-1. Flask-Migrate - for handling all database migrations.
-2. Flask-RESTful - restful API library.
-3. Flask-Script - provides support for writing external scripts.
-4. Flask-SQLAlchemy - adds support for SQLAlchemy ORM.
+This sample Python REST API application was written for a tutorial on implementing Continuous Integration and Delivery pipelines.
 
-Project structure:
-```
-.
-├── README.md
-├── app.py
-├── endpoints
-│   ├── __init__.py
-│   ├── todos
-│   │   ├── __init__.py
-│   │   ├── model.py
-│   │   └── resource.py
-│   └── users
-│       ├── __init__.py
-│       ├── model.py
-│       └── resource.py
-├── manage.py
-├── requirements.txt
-└── settings.py
-```
+It demonstrates how to:
 
-* endpoints - holds all endpoints.
-* app.py - flask application initialization.
-* settings.py - all global app settings.
-* manage.py - script for managing application (migrations, server execution, etc.)
+ * Write a basic REST API using the [Flask](http://flask.pocoo.org) microframework
+ * Basic database operations and migrations using the Flask wrappers around [Alembic](https://bitbucket.org/zzzeek/alembic) and [SQLAlchemy](https://www.sqlalchemy.org)
+ * Write automated unit tests with [unittest](https://docs.python.org/2/library/unittest.html)
 
-## Running 
+## Requirements
 
-1. Clone repository.
-2. pip install requirements.txt
-3. Run following commands:
-    1. python manage.py db init
-    2. python manage.py db migrate
-    3. python manage.py db upgrade
-4. Start server by running python manage.py runserver
+ * `Python 3.6`
+ * `pip`
+ * `virtualenv`
 
-## Usage
-### Users endpoint
-POST http://127.0.0.1:5000/api/users
+## Installation
 
-REQUEST
-```json
-{
-	"name": "John John"
-}
-```
-RESPONSE
-```json
-{
-    "id": 1,
-    "name": "John John",
-    "todos": []
-}
-```
-PUT http://127.0.0.1:5000/api/users/1
+Run:
 
-REQUEST
-```json
-{
-	"name": "Smith Smith"
-}
-```
-RESPONSE
-```json
-{
-    "id": 1,
-    "name": "Smith Smith",
-    "todos": []
-}
-```
-DELETE http://127.0.0.1:5000/api/users/1
-
-RESPONSE
-```json
-{
-    "id": 3,
-    "name": "Tom Tom",
-    "todos": []
-}
-```
-GET http://127.0.0.1:5000/api/users
-
-RESPONSE
-```json
-{
-    "count": 2,
-    "users": [
-        {
-            "id": 1,
-            "name": "John John",
-            "todos": [
-                {
-                    "id": 1,
-                    "name": "First task",
-                    "description": "First task description"
-                },
-                {
-                    "id": 2,
-                    "name": "Second task",
-                    "description": "Second task description"
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "name": "Smith Smith",
-            "todos": []
-        }
-    ]
-}
-```
-GET http://127.0.0.1:5000/api/users/2
-```json
-{
-    "id": 2,
-    "name": "Smith Smith",
-    "todos": []
-}
-```
-GET http://127.0.0.1:5000/api/users?name=John John
-```json
-{
-    "count": 1,
-    "users": [
-        {
-            "id": 1,
-            "name": "John John",
-            "todos": [
-                {
-                    "id": 1,
-                    "name": "First task",
-                    "description": "First task description"
-                },
-                {
-                    "id": 2,
-                    "name": "Second task",
-                    "description": "Second task description"
-                }
-            ]
-        }
-    ]
-}
-```
-GET http://127.0.0.1:5000/api/users?limit=1&offset=1
-```json
-{
-    "count": 1,
-    "users": [
-        {
-            "id": 2,
-            "name": "Smith Smith",
-            "todos": []
-        }
-    ]
-}
+```sh
+$ pip install -r requirements.txt
+$ python -m venv venv
+$ source venv/bin/activate
 ```
 
-Todo endpoint is similar to Users endpoint.
+Optional: set the `DATABASE_URL` environment variable to a valid SQLAlchemy connection string. Otherwise, a local SQLite database will be created.
+
+Initalize and seed the database:
+
+```sh
+$ flask db upgrade
+$ python seed.py
+```
+
+## Running tests
+
+Run:
+
+```sh
+$ python -m unittest discover
+```
+
+## Running the application
+
+### Running locally
+
+Run the application using the built-in Flask server:
+
+```sh
+$ flask run
+```
+
+### Running on a production server
+
+Run the application using `gunicorn`:
+
+```sh
+$ gunicorn app:app
+```
+
+## Deploying to Heroku
+
+Run:
+
+```sh
+$ heroku create
+$ git push heroku master
+$ heroku run flask db upgrade
+$ heroku run python seed.py
+$ heroku open
+```
+
+or use the automated deploy feature:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+For more information about using Python on Heroku, see these Dev Center articles:
+
+ - [Python on Heroku](https://devcenter.heroku.com/categories/python)

@@ -36,4 +36,4 @@ api.add_resource(TodosResource, '/todos', '/todos/<int:todo_id>')
 api.add_resource(BotResource, '/bot', '/bot/<string:ques>')
 
 if __name__ == '__main__':
-    app.run()
+    app.run(port=33507)
