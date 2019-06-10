@@ -1,2 +1,7 @@
-## Cache
-__pycache__/
+.DS_Store
+.ipynb_checkpoints
+__pycache__
+.idea
+*.pyc
+/dist/
+/*.egg-info

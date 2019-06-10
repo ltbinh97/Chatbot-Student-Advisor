@@ -1,95 +1,169 @@
-# Template for Python Script hosted on Heroku
+# Flask-RESTful API project template
 
-This is small example of running your script with [Heroku](https://www.heroku.com/). You can run any python script with any dependencies.
+This project shows one of the possible ways to implement RESTful API server.
 
-## Getting Started
+There are implemented two models: User and Todo, one user has many todos.
 
-1. Download this repository. 
-2. Register on [Heroku](https://www.heroku.com/).
-3. Download and install [Heroku CLI](https://devcenter.heroku.com/articles/getting-started-with-python#set-up).
-4. Download and install [git](https://git-scm.com/downloads).
-5. Copy your script/ project to repository's folder.
-6. 
-   Replace "script.py" with path to your main executable file in "Procfile".
-   
-   ```
-   worker: python script.py
-   ```
-   
-   > If you are getting errors, you can try replace `worker` with `web`.
-   
-7. 
-   You may select your python version and runtime with "runtime.txt". Read how on [official heroku page](https://devcenter.heroku.com/articles/python-runtimes#selecting-a-runtime).
-8. 
-   If you are using non-standart modules, you must add them to requirements.txt. To check which version of module you have on your computer, run `pip freeze` in the terminal. You will get lines `MODULE_NAME==MODULE_VERSION`. 
-   
-   Add lines with required modules to your `requirements.txt`. Don't kepp unused modules in `requirements.txt`. This file should contain every module your application needs. Heroku will install modules from this file.
-   
-9. 
-   Now open terminal (or do it other way, but i will explain how to do it in terminal on Ubuntu) and create git repository.   
-   
-   9.1. 
-      Initiate git ropository
-      
-      ```
-      git init
-      ```
-   
-   9.2. 
-      Create heroku app.
-   
-      ```
-      heroku create
-      ```
-   
-   9.3.
-      Commit and push your code into `heroku master`.
-   
-      ```
-      git add .
-      git commit -m "initial commit"
-      git push heroku master
-      ```
+Main libraries used:
+1. Flask-Migrate - for handling all database migrations.
+2. Flask-RESTful - restful API library.
+3. Flask-Script - provides support for writing external scripts.
+4. Flask-SQLAlchemy - adds support for SQLAlchemy ORM.
 
-10. 
-   Run you worker with following command.
-   
-   ```
-   heroku ps:scale worker=1
-   ```
-   
-11. 
-   Now everything should be working. You can check your logs with.
+Project structure:
+```
+.
+├── README.md
+├── app.py
+├── endpoints
+│   ├── __init__.py
+│   ├── todos
+│   │   ├── __init__.py
+│   │   ├── model.py
+│   │   └── resource.py
+│   └── users
+│       ├── __init__.py
+│       ├── model.py
+│       └── resource.py
+├── manage.py
+├── requirements.txt
+└── settings.py
+```
 
-   ```
-   heroku logs --tail
-   ```
-   
-12. 
-   You can open the URL where the script is deployed using the below command (if you are deploying site).
-   
-   ```
-   heroku open
-   ```
-   
-13. 
-   From now on you can use usual git commands (push, add, commit etc.) to update your app. Everytime you `push heroku master` your app gets redeployed.
+* endpoints - holds all endpoints.
+* app.py - flask application initialization.
+* settings.py - all global app settings.
+* manage.py - script for managing application (migrations, server execution, etc.)
 
-### Prerequisites
+## Running 
 
-* [Heroku CLI](https://devcenter.heroku.com/articles/getting-started-with-python#set-up)
-* [git](https://git-scm.com/downloads)
+1. Clone repository.
+2. pip install requirements.txt
+3. Run following commands:
+    1. python manage.py db init
+    2. python manage.py db migrate
+    3. python manage.py db upgrade
+4. Start server by running python manage.py runserver
 
-## Authors
+## Usage
+### Users endpoint
+POST http://127.0.0.1:5000/api/users
 
-* @michaelkrukov - http://michaelkrukov.ru/
+REQUEST
+```json
+{
+	"name": "John John"
+}
+```
+RESPONSE
+```json
+{
+    "id": 1,
+    "name": "John John",
+    "todos": []
+}
+```
+PUT http://127.0.0.1:5000/api/users/1
 
-## License
+REQUEST
+```json
+{
+	"name": "Smith Smith"
+}
+```
+RESPONSE
+```json
+{
+    "id": 1,
+    "name": "Smith Smith",
+    "todos": []
+}
+```
+DELETE http://127.0.0.1:5000/api/users/1
 
-This project is licensed under GNU General Public License v3.0 - see the [LICENCE.md](LICENCE.md) file for details
+RESPONSE
+```json
+{
+    "id": 3,
+    "name": "Tom Tom",
+    "todos": []
+}
+```
+GET http://127.0.0.1:5000/api/users
 
-## Acknowledgments
+RESPONSE
+```json
+{
+    "count": 2,
+    "users": [
+        {
+            "id": 1,
+            "name": "John John",
+            "todos": [
+                {
+                    "id": 1,
+                    "name": "First task",
+                    "description": "First task description"
+                },
+                {
+                    "id": 2,
+                    "name": "Second task",
+                    "description": "Second task description"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Smith Smith",
+            "todos": []
+        }
+    ]
+}
+```
+GET http://127.0.0.1:5000/api/users/2
+```json
+{
+    "id": 2,
+    "name": "Smith Smith",
+    "todos": []
+}
+```
+GET http://127.0.0.1:5000/api/users?name=John John
+```json
+{
+    "count": 1,
+    "users": [
+        {
+            "id": 1,
+            "name": "John John",
+            "todos": [
+                {
+                    "id": 1,
+                    "name": "First task",
+                    "description": "First task description"
+                },
+                {
+                    "id": 2,
+                    "name": "Second task",
+                    "description": "Second task description"
+                }
+            ]
+        }
+    ]
+}
+```
+GET http://127.0.0.1:5000/api/users?limit=1&offset=1
+```json
+{
+    "count": 1,
+    "users": [
+        {
+            "id": 2,
+            "name": "Smith Smith",
+            "todos": []
+        }
+    ]
+}
+```
 
-* [Official guide to deploy app](https://devcenter.heroku.com/articles/getting-started-with-python#introduction)
-* [Official guide about worker](https://devcenter.heroku.com/articles/background-jobs-queueing)
-* [Guided "Simple twitter-bot with Python, Tweepy and Heroku"](http://briancaffey.github.io/2016/04/05/twitter-bot-tutorial.html)
+Todo endpoint is similar to Users endpoint.
