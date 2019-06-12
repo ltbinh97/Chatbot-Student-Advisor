@@ -1,8 +1,8 @@
-from flask import json, jsonify
+from flask import json, jsonify, request
 from app import app
 from app import db
 from app.models import Menu
-
+from flask_restful import Resource, reqparse, request
 #region 
 @app.route('/')
 def home():
@@ -21,12 +21,11 @@ def menu():
 # endregion
 
 
-@app.route('/bot/<ques>')
-def bot(ques):
-
+@app.route('/bot', methods = ['POST'])
+def bot():
+    req_data = request.get_json()
+    ques = req_data["message"]
     #region ADD BOT RESPONSE FUNCTION HERE
-
     #endregion
-
-    answer = ques + "12323"
+    answer =  ques +  "12323"
     return jsonify({ "answer": answer })
