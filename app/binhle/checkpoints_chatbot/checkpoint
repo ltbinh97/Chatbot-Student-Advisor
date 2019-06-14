@@ -1,0 +1,3 @@
+model_checkpoint_path: "/home/ltbinh/Desktop/Python-Deep-Learning-Projects/Chapter05/checkpoints_chatbot/model-200"
+all_model_checkpoint_paths: "/home/ltbinh/Desktop/Python-Deep-Learning-Projects/Chapter05/checkpoints_chatbot/model-199"
+all_model_checkpoint_paths: "/home/ltbinh/Desktop/Python-Deep-Learning-Projects/Chapter05/checkpoints_chatbot/model-200"
