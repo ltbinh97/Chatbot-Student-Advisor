@@ -31,6 +31,6 @@ def bot():
     #!/usr/bin/env python2
     # -*- coding: utf-8 -*-
 
-    answer = predict('how are you ?')
+    answer = predict(ques)
     #endregion
     return jsonify({ "answer": answer })
