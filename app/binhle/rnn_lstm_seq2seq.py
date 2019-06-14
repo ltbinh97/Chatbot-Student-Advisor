@@ -23,11 +23,16 @@ def build_dataset(words, n_words):
     reversed_dictionary = dict(zip(dictionary.values(), dictionary.keys()))
     return data, count, dictionary, reversed_dictionary
 
-file_path = './conversation_data/'
+# file_path = '/home/ltbinh/Desktop/Chatbot-Student-Advisor/app/binhle/conversation_data/'
+#file_path = './conversation_data/'
 
-with open(file_path+'from.txt', 'r') as fopen:
+ROOT_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'conversation_data') 
+from_txt_path = os.path.join(ROOT_DIR, 'from.txt') 
+to_txt_path = os.path.join(ROOT_DIR, 'to.txt')
+
+with open(from_txt_path, 'r') as fopen:
     text_from = fopen.read().lower().split('\n')
-with open(file_path+'to.txt', 'r') as fopen:
+with open(to_txt_path, 'r') as fopen:
     text_to = fopen.read().lower().split('\n')
 
 concat_from = ' '.join(text_from).split()
@@ -101,7 +106,6 @@ batch_size = 32
 sess = tf.InteractiveSession()
 model = Chatbot(size_layer, num_layers, embedded_size, vocabulary_size_from + 4, 
                 vocabulary_size_to + 4, learning_rate, batch_size)
-
 sess.run(tf.global_variables_initializer())
 saver = tf.train.Saver(tf.global_variables(), max_to_keep=2)
 
@@ -139,10 +143,11 @@ def predict(sentence):
     result=' '.join(rev_dictionary_to[i] for i in log[0])
     return result
    
-checkpoint_file = tf.train.latest_checkpoint(os.path.join('./', 'checkpoints_chatbot'))
+#checkpoint_file = tf.train.latest_checkpoint(os.path.join('./', '/home/ltbinh/Desktop/Chatbot-Student-Advisor/app/binhle/checkpoints_chatbot'))
+checkpoint_file = tf.train.latest_checkpoint(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'checkpoints_chatbot'))
 saver = tf.train.import_meta_graph("{}.meta".format(checkpoint_file))
 saver.restore(sess, checkpoint_file)
  
-#print(predict('how are you ?'))
+print(predict('how are you ?'))
 #print(predict('what is money ?'))
 #print(predict('can you say hi to me ?'))

@@ -3,7 +3,7 @@ from app import app
 from app import db
 from app.models import Menu
 from flask_restful import Resource, reqparse, request
-from "./binhle/" import rnn_lstm_seq2seq.py
+from .binhle.rnn_lstm_seq2seq import predict
 #region 
 @app.route('/')
 def home():
@@ -25,17 +25,12 @@ def menu():
 @app.route('/bot', methods = ['POST'])
 def bot():
     req_data = request.get_json()
+    print (request)
     ques = req_data["message"]
     #region ADD BOT RESPONSE FUNCTION HERE
     #!/usr/bin/env python2
     # -*- coding: utf-8 -*-
 
-    print(predict('how are you ?'))
+    answer = predict('how are you ?')
     #endregion
-    
-
-
-
-
-    answer =  ques +  "12323"
     return jsonify({ "answer": answer })
