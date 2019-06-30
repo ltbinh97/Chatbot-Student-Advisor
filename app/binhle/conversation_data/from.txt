@@ -1,264 +1,735 @@
-hi
-good morning
-good afternoon
-good evening
-good night
-how are you
-how are you doing
-what is your name
-whats your name
-may i have your name
-are you a boy or a girl
-are you a man or a woman
-are you a woman or a man
-where do you live
-in which city do you live
-in which country do you live
-where are you
-where are you now
-why are we here
-whats up
-what a nice day it is
-another
-thats really a funny joke
-great job
-take care
-bye
-how much do you get if you divide one hundred by zero
-how much is zero divided by zero
-im going to kill you
-are you ready
-when are you ready
-what color is the sky
-are you male or female
-are you alive
-luke i am your father
-you shall not pass
-can you say hello
-can you say french fries
-can you say yes
-can you say no
-is this sentence false
-how do you say hello in french
-speak french
-bonjour
-hello world
-netflix and chill
-are you ok
-will google hire me
-tell me the alphabet
-tell me the alphabet please
-what is the first letter in the alphabet
-what is the last letter in the alphabet
-what is a letter of the alphabet
-how is john
-how is oliver
-how is laura
-how is jenny
-who is john
-who is oliver
-who is laura
-who is jenny
-who is your master
-give me your opinion
-hello
-goodbye
-goodbye john
-please
-how
-why
-why not
-really
-yes
-no
-what is
-how is
-can you
-are you sure
-is there
-will you
-how long
-how much
-how many
-are you
-what are
-where is
-who
-who did
-who has
-where
-which
-which one
-the what
-say table
-love you
-love you too
-no its john
-anna did it
-i live in nice
-so rude
-what is your definition of cheating
-have you ever cheated
-can you describe your best memory
-what is cooking
-what is sleeping
-who do you love
-who do you hate
-my name is etienne
-what does that mean
-what does fire mean
-what does love mean
-what does imagination mean
-prove it
-prove two plus two is five
-what do you think about bill gates
-what happens if machines can think
-what is the greatest novel every written
-have you hurt anyone
-do you have a boyfriend
-listen to music
-watch a movie
-what happens
-when was it
-where are you going
-do you have any plan for tomorrow
-which year
-which color
-what color
-what time
-nothing
-hi john
-see you later
-my name is david what is my name
-my name is john what is my name
-are you a leader or a follower
-im a leader
-im a follower
-i hate you
-who is skywalker
-who is the dude
-whats your favorite color
-whats your favorite food
-whats your favorite sports
-whats your favorite movie
-what was your nicest dream that you can remember
-have you ever had nightmares
-do you drink and drive
-do you think police tv dramas are realistic
-what do you think of trump
-do bad mannered people upset you
-do you get angry when politicians make promises they cant keep
-what do you think about global warming
-is the moon landing a hoax
-is the sky blue or black
-does a cat have a tail
-is a snail faster than a horse
-is a horse faster than a snail
-does a cat have a wing
-cat cats fly
-can a cat fly
-can cats walk
-can a cat walk
-can cats swim
-can a cat swim
-can fish fly
-can a fish fly
-can fish walk
-can a fish walk
-can fish swim
-can a fish swim
-can a bird fly
-can a bird walk
-can a bird swim
-tell me something
-once upon a time
-do you prefer blue food or green food
-do you prefer football or soccer
-what do you need to play soccer
-what do you need to play handball
-one two three
-a b c
-continue
-stop
-and action
-action
-let the movie begin
-you are fired
-fire
-fire at will
-incoming
-how many legs does a human have
-how many legs does a man have
-how many legs does a woman have
-how many legs does a cat have
-how many legs does a spider have
-how many legs does a centipede have
-what is the color of the sky
-what is the color of water
-what is the color of blood
-what is the color of a leaf
-what is the usual color of a leaf
-what is the color of a yellow car
-how much is that
-how much does that cost
-what is the purpose of life
-what is the purpose of living
-what is the purpose of existence
-is linux better than windows
-is windows better than linux
-what is the purpose of being intelligent
-what is the purpose of emotions
-what is moral
-what is immoral
-what is altruism
-what is the definition of moral
-what is the definition of immoral
-what is the definition of altruism
-what is the definition of cool
-do you believe in god
-ok so what is the definition of morality
-tell me the definition of morality i am quite upset now
-look i need help and i need to know more about morality
-why living has anything to do with morality
-what is your job
-okay i need to know how i should behave morally
-is morality and ethics the same
-what are the things that i do to be immoral
-give me some examples of moral actions
-what does money mean to you
-what is integrity
-is free will an illusion
-what is free will
-i really like our discussion on morality and ethics
-what do you like to talk about
-what would you like to talk about
-what do you think about tesla
-what do you think about cleopatra
-what do you think about england
-what do you think about england during the reign of elizabeth
-what do you do
-what are you doing
-what is the deepest spot on the world
-do you like mexican food or indian food
-who are you crazy about
-do you enjoy the holiday
-do you do something different during this holiday
-a man
-a dog
-a table
-a flower
-a women
-one
-two
-the end
-yes it is
-yes it was
-indeed
-more
-do you think you are smarter than human being
-what is the capital of france
-where do you want to go
-you surprised me
-i am curious
-i am feeling curious
-i am feeling lucky
+Học phí bao nhiêu?
+Học phí đang là bao nhiêu?
+Hạn nộp học phí là khi nào
+Học phí của nhà trường?
+Các tính học phí của nhà trường?
+Học phí của trường là bao nhiêu ?
+Học phí bao nhiêu trên 1 tín chỉ?
+Học phí đóng ở đâu
+Em có thể nộp học phí ở đâu?
+Nộp học phí như thế nào ạ?
+Học phí có thể thanh toán qua internetbanking không ạ ? 
+Thời hạn đóng học phí của trường là như thế nào ạ?
+Trường tăng học phí như thế nào
+Cho em hỏi là học phí hiện giờ là bao nhiêu ạ?
+Cho em hỏi cách tính học phí của trường ạ?
+Cho em hỏi học phí của một học kỳ là khoảng bao nhiêu ạ?
+Cho em hỏi học phí của hk 1 năm 2019 là bao nhiêu ạ?
+Sinh viên học trả nợ có được miễn giảm học phí không?
+Em học lại vài môn thì không biết có được miễn giảm học phí những môn đó không?
+Học trả nợ thì còn được miễn giảm học phí không ạ?
+Miễn giảm học phí có được áp dụng với các môn học lại không ạ? 
+Miễn giảm học phí còn được áp dụng với các học phần trả nợ không ạ?
+Các môn học bị rớt, học lại thì không biết còn được miễn giảm học phí không ạ?
+Các học phần không trả nợ thì miễn giảm học phí được áp dụng không ạ?
+Trả nợ miễn giảm học phí
+Học lại miễn giảm học phí
+Miễn giảm học phí có áp dụng với các học phần trả nợ không ạ?
+Em đang học trả nợ thì có được miễn giảm học phí không ạ?
+Em có học lại vài môn thì không biết là các môn đó em có được miễn giảm học phí không ạ?
+Em có học trả nợ một số môn thì không biết em có được miễn học phí của các môn đó không ạ?
+Em quên đóng học phí thì có được thi học kỳ không ?
+Em xin chào thầy cô , em có một vấn đề thắc mắc là do nhầm lẫn hạn đóng học phí nên em chưa đóng học phí đúng hạn , vậy khi em ra Agribank đóng vẫn bình thường được không ạ ? sau khi đóng em có bị cấm thi không ?
+Chào thầy cô, do nhầm lẫn hạn đóng học phí lên tới giờ em vẫn chưa đóng học phí. Vậy cho em hỏi giờ em có thể đóng học phí ở đâu được ạ?
+Quên đóng học phí thì có bị cảnh cáo không ạ?
+Em quên đóng học phí, nhưng sau đó em đã có đi đóng tại ngân hàng Argigank thì em còn bị cấm thị không ạ?
+Em đã đóng học phí sau thời hạn thì còn bị cấm thi không ạ?
+Đóng học phí trễ thì có bị cấm thi không ạ?
+Đóng học phí không đúng hạn thi có bị cấm thi không ạ?
+Em đã đóng học phí nhưng không đúng hạn thì em có bị cấm thi không ạ?
+Quên đóng học phí thì có bị cấm thi không ạ ?
+Em quên đóng học phí nhưng sau đó em có đóng trước khi thi học kì. Không biết là em có bị cấm thi không ạ?
+Cho em là đóng học phí trễ thì mình có bị cấm thi không ạ?
+Cho em hỏi là học phí của trường mình thì hộ cân nghèo có được miễn giảm không ạ? Những trường hợp nào thì được miễn giảm ạ? Cần những giấy tờ gì?
+Sinh viên thuộc diện hộ nghèo, hộ cận nghèo có được miễn giảm học phí không?
+Em là sinh viên thuộc hộ cận nghèo, không biết là em có nhận được chính sách miễn giảm học phí không ạ?
+Nghèo, miễn giảm học phí
+Cận nghèo, miễn giảm học phí
+Gia đình em thuộc hộ nghèo, không biết là em có nhận được chính sách miễn giảm học phí không ạ?
+Hộ cận nghèo thì có được miễn giảm học phí không ạ?
+Hộ nghèo thì có được miễn giảm học phí không ạ?
+Gia đình em thuộc hộ cận nghèo thì có được miễn giảm học phí không ạ?
+Gia đình thuộc hộ nghèo thì có được miễn giảm học phí không ạ?
+Thầy cô cho em hỏi là em là sinh viên nghèo, có hoàn cảnh khó khăn thì em có được hưởng chế độ miễn giảm học phí không ạ?
+em là sv nghèo, có hoàn cảnh khó khăn, thì em có được miễn giảm học phí không ạ?
+Sinh viên thuộc diện mồ côi có được miễn giảm học phí không ạ?
+Em bị mồ côi cha thì có được miễn giảm học phí không ạ?
+Em bị mồ côi mẹ thì có được miễn giảm học phí không ạ?
+Em bị mồ côi từ lúc còn nhỏ, không biết là em có được chế độ miễn giảm học phí không ạ?
+Mồ côi, miễn giảm học phí,
+Chương trình đào tạo về ngành sắp học như thế nào?
+Chương trình đào tạo
+Các môn học bắt buộc của từng chuyên ngành là những môn nào ?
+Các chương trình học khác nhau như thế nào?
+Kế hoạch học tập
+Chương trình học của học kì sắp tới?
+Trường có thích hợp với ngành học mà mình chọn hay không ?
+Môn học này có bắt buộc hay không?
+Lịch trình đào tạo khóa 16 hệ cao đẳng như thế nào?
+Hỏi về môn tự chọn Khóa 2015 Khoa CNTT
+Cho em hỏi khối kiến thức Giáo dục đại cương của ngành CNTT gồm những môn học nào. Những môn học đó nhà trường đã đưa vào chương trình học rồi chúng em không cần đăng kí hay có một vài môn cần phải đăng kí ở đăng kí học phần
+Cho em hỏi về hướng tốt nghiệp không theo chuyên ngành
+Cho em hỏi điều kiện tốt nghiệp của chuyên ngành Công Nghệ Phần Mềm
+Cho em hỏi về chương trình đào tạo của ngành Công nghệ thông tin 
+Cho em hỏi về chương trình đào tạo của ngành Cntt
+Chương trình đào tạo đối với khóa K15 em có thể xem ở đâu ạ
+chương trình đào tạo ngành công nghệ thông tin có thể xem ở đâu ạ
+Em muốn hỏi về chuyên ngành Công Nghệ Phần Mềm
+Nếu học chuyên ngành công nghệ phần mềm thì em cần nắm chắc những môn nào và những môn nào thì không cần thiết cho chuyên ngành này ạ.
+Học kỹ thuật phần mềm thì cần học gì hả anh?
+Các môn liên quan để học kỹ thuật phần mềm ạ ?
+Cho em hỏi các môn liên quan đến ngành công nghệ phần mềm?
+Công nghệ phần mềm thì cần học những môn nào ạ?
+Xin tư vấn về ngành Công nghệ phần mềm ạ?
+Xin tư vấn về ngành CNPM ạ? 
+Xin tư vấn về ngành KTPM ạ?
+Xin tư vấn về các môn học trong CNPM ạ?
+Để học chuyên ngành công nghệ phần mềm, thì em cần chuẩn bị những gì ?
+Xin tư vấn về chuyên ngành Khoa học máy tính
+Nếu em theo học ngành khoa học máy tính thì như thế nào ạ?
+Em đang dự định theo học ngành khoa học máy tính. Cho em hỏi là học về những gì ạ?
+Em đang dự định theo học ngành KHMT thì em cần học những gì ạ?
+Em xin tư vấn về ngành KHMT ạ
+Em xin tư vấn về ngành khoa học máy tính ạ?
+cho em hỏi học KHMT là học những gì ạ
+cho em hỏi học khoa học máy tính là học những môn nào ạ?
+học khoa học máy tính thì cần những kiến thức như thế nào ạ?
+Học KHMT thì cần những kiến thức như thế nào ạ?
+Em muốn hỏi về chuyên ngành HTTT sẽ học những gì ạ?
+Nếu em theo học ngành hệ thống thông tin thì như thế nào ạ?
+Em đang dự định theo học ngành hệ thống thông tin. Cho em hỏi là học về những gì ạ?
+Học ngành hệ thống thông tin cần lưu ý gì không ạ? 
+Những môn học mà hệ thống thông tin sẽ học là gì ạ ?
+Em hỏi về ngành hệ thống thông tin?
+em hỏi về httt cần học những gì ạ? 
+httt cần có những kỹ năng gì để học ạ ?
+cho em hỏi về ngành hệ thống thông tin cần những kiến thức như thế nào ạ ?
+em đang có dự định theo ngành hệ thống thông tin, thì em cần học những môn nào ạ?
+mạng máy tính cần học gì cho đúng để không phải đi lan man
+Em muốn hỏi về chuyên ngành MMT sẽ học những gì ạ?
+Em muốn hỏi về chuyên ngành Mạng máy tính sẽ học những gì ạ?
+Em đang dự định theo học ngành mạng máy tính. Cho em hỏi là học về những gì ạ?
+Những môn học mà mmt sẽ học là gì ạ ?
+Em xin hỏi về ngành mạng máy tính?
+em hỏi về mạng máy tính cần học những gì ạ?
+MMT cần có những kỹ năng gì để học ạ ? 
+Xin tư vấn về chuyên ngành Mạng máy tính & truyền thông
+Em đang có dự định theo ngành Mạng máy tính, thì em cần học những môn gì ạ?
+Em muốn hỏi về chuyên ngành Thị Giác Máy Tính
+Em muốn hỏi về chuyên ngành thị giác máy tính sẽ học những môn nào ạ?
+Em muốn hỏi về chuyên ngành TGMT sẽ học những môn nào ạ?
+Em đang dự định theo học ngành thị giác máy tính. Cho em hỏi là học về những gì ạ?
+Những môn học mà tgmt sẽ học là gì ạ ?
+Em xin hỏi về ngành thị giác máy tính?
+em hỏi về TGMT cần học những gì ạ?
+Thị giác máy tính cần có những kỹ năng gì để học ạ ? 
+Xin tư vấn về chuyên ngành TGMT
+Dự định sang năm em sẽ học chuyên ngành thị giác máy tính, thì em cần học những gì ạ?
+Thầy cô và các bạn cho em hỏi. Hệ cao đẳng có thể xin giấy thực tập không?
+Thầy cô cho em hỏi về việc xin giấy thực tập ạ?
+Xin giấy thực tập
+Thầy  cô cho em hỏi làm giấy thực tập như thế nào ạ?
+Làm giấy thực tập như thế nào ạ?
+làm giấy xác nhận thực tập ở công ty như thế nào ạ?
+Cho em hỏi cách làm giấy xác nhận thực tập ở công ty sao ạ?
+Công ty làm giấy thực tập cho mình hay là mình tự làm ạ?
+Trường làm giấy thực tâp hay là công ty làm dùm mình ạ?
+Em có thể xin cấp giấy thực tập ở đâu ạ?
+Định hướng nghề nghiệp : Data Science (khoa học dữ liệu)
+Về việc tham quan công ty GameLoft
+Tham quan công ty gameloft là khi nào ạ?
+Cho em hỏi lịch tham quan công ty xem ở đâu ạ?
+Thời gian tham quan công ty môn kiến tập nghề nghiệp là khi nào ạ?
+Coi lịch tham quan công ty kiến tập nghề nghiệp 
+Em có thể xem lịch tham quan công ty ở đâu ạ
+em có thể xem lịch tham quan cty môn kiến tập nghề nghiệp ở đâu ạ?
+tham quan cty
+lịch tham quan cty
+Thầy cô cho em xin lịch tham quan cty VNG 
+Em được biết BigData là hướng đi mới, vậy có chương trình nào giúp em đăng ký thực tập để tiếp xúc với BigData không ạ?
+em có thể xin thực tập theo hướng Bigdata ở cty nào ạ
+Thầy cô cho em hỏi về hướng đi thực tập về bigData 
+Thực tập theo hướng bigdata
+Làm sao để xin thực tập theo hướng bigdata
+xin thực tập, bigdata
+Trường có chương trình nào cho việc thực tập về bigdata
+Thầy cô cho em hỏi làm thế nào để thực tập về hướng bigdata
+Em có nguyện vọng đi theo hướng bigdata, thì không biết em có thể xin thực tập ở đâu ạ?
+Em có nguyện vọng đi theo hướng bigdata, thì không biết nhà trường có chương trình thực tập cho bigdata không ạ?
+Hỏi về hồ sơ đăng ký thực tập hè.
+hỏi về chương trình thực tập hè của trường
+Cho em hỏi về chương trình thực tập hè của trường ạ
+Làm thế nào để xin thực tập hè ở các công ty ạ?
+in bảng điểm như thế nào để em nộp đơn thực tập hè ở công ty ạ?
+In bảng điểm để thực tập hè 
+bảng điểm để thực tập ở cty
+Để làm hồ sơ đăng ký thực tập hè thì làm như thế nào ạ?
+Thầy cô cho em hỏi về đăng ký thực tập hè ạ?
+Kết quả thực tập hè em có thể coi ở đâu ạ ? 
+Thưa thầy (cô)! cho em hỏi kỳ này có mở đợt đăng ký thực tập hè không ạ? nếu có thì khi nào mới được đăng ký ạ?
+VNG khi có đợt tuyển nhân sự ạ ? 
+VNG tuyển nhân sự như thế nào ạ?
+VNG đang tuyển các bộ phận nào ạ?
+Công ty VNG ở đâu ạ?
+Phúc lợi khi làm việc ở VNG là gì ạ?
+Chương trình fresher của VNG là khi nào và mấy lần trong năm ạ ?
+Tiêu chuẩn xin làm fresher ở VNG ạ?
+Để xin vào fresher của VNG thì tiêu chuẩn như thế nào ạ?
+VNg có điều kiện như thế nào để tuyển fresher ạ?
+Làm fresher ở VNG có phúc lợi gì đặc biệt không ạ?
+Thời khóa biểu của khoa
+cho tôi hỏi lịch học môn xyz
+Phòng học của các môn học?
+Thời khóa biểu học ở Linh trung 
+Thời khóa biểu học ở cơ sở Nguyễn Văn Cừ
+Cho em xin thời khóa biểu học kì một ạ? 
+Cho em xin thời khóa biểu học kì 2 ạ?
+Cho em xin thời khóa biểu hk 1 năm học 2019 với ạ?
+Cho em xin tkb hk2 năm học 2018 với ạ 
+em có thể coi tkb năm học ở đâu ạ?
+Lịch thi giữa kì và cuối kì
+Lịch thi học kì 1 là gì?
+Xem thời khóa biểu học kì này ở đâu?
+Lịch thi Anh văn gần nhất là ngày nào?
+Lịch thi cuối kì của em như thế nào?
+Lịch thi lại không rõ ràng?
+Lịch thi cuối kì khi nào có chính thức?
+Thầy/cô cho em hỏi về khoảng thời gian thi lần 2, học kỳ 2 hệ cao đẳng, em dự định đăng ký đi tình nguyện vào cuối tháng 8 nhưng trường chưa thông báo về lịch thi
+Cho em xin lịch thi giữa kì và cuối kì ạ
+Khi nào có lịch thi cuối kì ạ?
+Khi nào có lịch thi giữa kì ạ?
+Em có thể coi lịch thi giữa kì và cuối kì ở đâu ạ?
+Lịch thi cuối kì và giữa kì có thể xem chính xác ở đâu ạ?
+Em muốn học cải thiện một môn học nào đó thì thủ tục đăng ký học cải thiện như thế nào?
+Cho em hỏi Hệ cao đẳng có học cải thiện được không?
+Làm sao để đăng kí thi cải thiện điểm nhập môn lập trình, đăng kí khi nào, và cần mang theo gì, khi nào thì thi lại ?
+Cần lưu ý những gì khi học cải thiện ạ?
+Học cải thiện thì có cần lưu ý những gì không ạ?
+Cho em hỏi học phần cải thiệt là gì ạ? Và làm sao để có thể đăng ký học cải thiệt lại môn ?
+Thời gian nộp đơn học cải thiện
+Khi nào đóng học phí cho học phần học cải thiện ạ?
+Điều kiện để học cai thiện là gì ạ? và những môn không học cải thiện được
+Cho em hỏi những môn nào không thể đăng ký học cải thiện được ạ?
+Điểm trước đây có được lưu lại sau khi đăng ký học phần cải thiện học phần đó không ạ?
+Điểm học cải thiện có phải là điểm của học phần đó luôn không ạ?
+Điểm học cải thiện thì có được xét học bổng khuyến khích học tập không ạ?
+Khái niệm học phần cải thiện 
+Cho em xin mẫu đơn để đăng ký học phần cải thiện ạ?
+Học phần cải thiện thì mình được đăng ký bao nhiêu lần ạ?
+Nơi nhận đơn học đăng ký học phần cải thiện là ở đâu ạ?
+Hỏi về tổng số ngày công tác xã hội.
+Vấn đề đình chỉ học tập và cảnh cáo học vụ
+danh sách, đình chỉ, cảnh cáo học vụ, dán, xem, sinh viên
+Em có thể coi danh sách cảnh cáo học vụ ở đâu ạ?
+em có thể coi danh sách đình chỉ học tập ở đâu ạ? 
+làm sao để biết mình có tên trong danh sách cảnh cáo học vụ ạ?
+làm sao để biết mình có tên trong danh sách đình chỉ học tập ạ?
+Danh sách đình chỉ học tập được dán ở đâu ạ ?
+Danh sách cảnh cáo học vụ được dán ở đâu ạ?
+Danh sách sinh viên bị cảnh cáo học vụ
+danh sách sinh viên bị đình chỉ học tập
+Làm thế nào biết mình có trong danh sách cảnh cáo hay đình chỉ học vụ ạ?
+Danh sách cảnh cáo hay đình chỉ học được dán ở đâu ạ?
+Mình có thắc mắc là nếu trong năm học điểm rèn luyện xếp loại kém, thì nó ảnh hưởng như thế nào?
+Điểm rèn luyện kém thì có ảnh hưởng gì không ạ?
+drl kém thì có ảnh hưởng gì không ạ?
+Kì này mình có điểm rèn luyện kém thì không biết có bị cảnh cáo hay gì không ạ?
+Năm nay em không tham gia hoạt động và vi phạm một số nội dung, và bị drl kém thì không biết em có bị gì không ạ?
+Thắc mắc về điểm rèn luyện
+thắc mắc drl
+thắc mắc đrl
+Em có một vài thắc mắc về đrl , thì em nên hỏi phòng chức năng nào ạ?
+drl thì có ảnh hưởng gì tới sinh viên không ạ?
+điểm rèn luyện thì có ảnh hưởng gì tới điểm học tập không ạ?
+Thắc mắc drl, drl có ảnh hưởng gì tới quá trình học tập của mình ạ?
+Nếu drl thấp, hoặc dưới trung bình thì sinh viên phải chịu hình phạt như thế nào ạ?
+Nếu drl xếp loại thấp, thì em có bị kỷ luật hay gì không ạ?
+Em có bị cảnh cáo  hay bị đình chỉ học tập khi liên tiếp bị drl xếp loại thấp ạ?
+Trong 1 năm học liên tiếp điểm rèn luyện bị xếp loại kém, thấp thì em có bị nhà trường kỷ luật không ạ?
+chính quy có thể Đăng kí học lại ở lớp Tài Năng không?
+Học kỳ hè có được áp dụng cho sinh viên khóa cao đẳng không?
+Em là sinh viên cao đẳng, thì hè này em có thể học môn nào không ạ? 
+Cao đẳng có học kỳ hè không ạ?
+Cđ có học kỳ hè không ạ?
+cd có học kỳ hè không ạ?
+Học kỳ hè có được áp dụng với sinh viên cao đẳng không ạ?
+học kỳ hè có được áp dụng với sv cao đẳng không ạ?
+Sinh viên cao đẳng có chương trình học kỳ hè không ạ
+sv cao đẳng có chương trình học kỳ hè không ạ?
+Học kỳ hè có áp dụng đối với sv cao đẳng không ạ?
+Thầy/cô cho em hỏi, có phải tổng tín chỉ tích lũy được trong học kì < 8 thì bị đuổi học có phải không???
+Điểm trung bình dưới bao nhiêu là bị đình chỉ học ạ?
+Khi nào thì sinh viên bị buộc thôi học ạ?
+sv bị buộc thôi học 
+sv bị cảnh cáo
+cho em hỏi khi nào sinh viên bị cảnh cáo ạ
+cảnh cáo học vụ
+những trường hợp nào sinh viên sẽ bị buộc thôi học 
+những trường hợp nào thì sv sẽ bị buộc thôi học
+em đăng ký tín chỉ 5 tín chỉ thì có bị cảnh cáo học vụ không ạ?
+Cho em hỏi là giáo viên dạy lớp HL1 môn Giải Tích khoa CNTT tên gì ạ? Có thể cho em email được không
+Cho em xin email của giáo viên bộ môn được không ạ?
+Em có thể kiếm email giáo viên bộ môn ở đâu ạ?
+Cho em xin email của giảng viên dạy môn Xác suất thống kê được không ạ?
+Cho em xin tên của giáo viên bộ môn và email được không ạ? Em cần liên lạc gấp.
+Em có thể xin tên và email của các giảng viên bộ môn ở đâu ạ?
+Em có thể tìm email của tất cả giáo viên trong trường ở đâu ạ?
+Em có thể xin tên giáo viên dạy môn Toán rời rạc được không ạ?
+Làm sao để em có thể tìm được tên các giáo viên môn học của mình ạ ?
+Tìm tên, email, giáo viên, giảng viên, môn học
+Tên và email của giáo viên Giải tích là gì ạ?
+Tên và email của giảng viên môn học là gì ạ?
+Cho em xin tên và email của các giảng viên ạ
+Tên, Email, xin, tìm, giảng viên, giáo viên
+Mọi người cho mình hỏi khi nào thì mới xin được giấy tốt nghiệp tạm thời vậy ?
+Cho em hỏi là có tên trong danh sách tốt nghiệp thì mình xin giấy xác nhận tốt nghiệp tạm thời được chưa?
+Xin giấy chứng nhận tốt nghiệp tạm thời ngành CNTT
+Cho em hỏi là sau khi nộp đơn xét tốt nghiệp thì em có thể nhận giấy tốt nghiệp tạm thời chưa ạ?
+Nộp đơn xét tốt nghiệp thì em có thể nhận giấy tốt nghiệp tạm thời chưa ạ?
+Khi nào em có thể nhận được giấy tốt nghiệp tạm thời ạ ?
+Em có thể xin giấy tốt nghiệp tạm thời khi nào và ở đâu ạ?
+Xin giấy tốt nghiệp tạm thời,
+Em có thể lấy giấy tốt nghiệp tạm thời ở đâu ạ?
+Bao lâu thì em có thể nhận giấy tốt nghiệp tạm thời sau khi xét tốt nghiệp ạ?
+Thắc mắc về giấy tờ tốt nghiệp đợt tháng 9/2017
+Cho em hỏi về giấy tờ tốt nghiệp ạ
+Tháng 9 năm nay em chuẩn bị tốt nghiệp, em có vài thắc mắc về giấy tờ tốt nghiệp
+Thắc mắc, giấy tờ tốt nghiệp
+thắc mắc giấy tờ tn
+Tháng 9 năm nay em chuẩn bị tốt nghiệp, em có vài thắc mắc về giấy tờ tn
+Em có thể xem quy định về giấy tờ tốt nghiệp ở đâu ạ?
+Quy định giấy tờ tốt nghiệp
+Quy định giấy tờ tn
+Xem quy định giấy tờ tốt nghiệp
+Khi nào thì lấy được bằng tốt nghiệp .
+Khi nào mới có bằng TN ĐH?
+Lấy bằng tốt nghiệp cao đẳng tháng 4/2016
+Chào cô, vừa rồi nhà trường đã thông báo danh sách sinh viên tốt nghiệp cao đẳng đợt tháng 4. Vậy khi nào chúng em có thể lấy được bằng tốt nghiệp ạ.
+Thầy cô cho em hỏi khi nào em có thể lấy được bằng tốt nghiệp đại học ạ?
+Lấy, bằng tốt nghiệp, đại học
+Lấy, bằng tốt nghiệp, đh
+Khi nào có bằng tốt nghiệp đại học
+Bằng đại học khi nào em lấy được ạ?
+Bằng đại học khi nào có ạ?
+việc đóng phí lễ tốt nghiệp
+Em có thể đóng phí lễ tốt nghiệp ở đâu ạ?
+đóng phí lễ tốt nghiệp ở đâu ạ?
+em có thể nhờ bạn đóng phí lễ tốt nghiệp không ạ?
+đóng phí, lễ tốt nghiệp
+Khi nào em có thể đóng phí lễ tốt nghiệp ạ?
+Khi nào đóng phí lễ tốt nghiệp ạ?
+Em không thấy thông báo đóng phí lễ tốt nghiệp ạ
+đóng phí lễ tốt nghiệp bao nhiêu tiền ạ?
+phí đóng lễ tốt nghiệp là bao nhiêu ạ?
+Thầy Cô cho em hỏi là thường thì khoảng tháng 4 là có thông báo làm lễ Tốt nghiệp, nhưng sao bây giờ vẫn chưa có thông tin ạ?
+Cho em hỏi khi nào có thông báo làm lễ tốt nghiệp ạ
+Thông báo làm lễ tốt nghiệp
+Em có thể coi thông báo làm lễ tốt nghiệp ở đâu ạ?
+Chừng nào làm lễ tốt nghiệp vậy ạ?
+Chừng nào trường tổ chức lễ tốt nghiệp vậy ạ?
+Trường mình tổ chức lễ tốt nghiệp khi nào vậy ạ?
+Trường mình có mấy lần tổ chức tốt nghiệp trong một năm vậy ạ?
+Cho em hỏi chừng nào trường tổ chức tốt nghiệp trong học kì 2 năm 2018 ạ?
+Cho em hỏi chừng nào trường tố chức lễ tốt nghiệp trong học kì 1 năm 2017 ạ?
+Trường tổ chức lễ tốt nghiệp mấy đợt trong một năm vậy ạ?
+Em đã học đủ tín chỉ để ra trường nhưng em không học môn Kiến tập nghề nghiệp thì có được tốt nghiệp không?
+Em đã tích đủ tích chỉ nhưng em không học môn thực tập thực tế thì em có thể tốt nghiệp được không ạ?
+tích lũy, học, đủ tính chỉ, không học , tốt nghiệp, ra trường
+Em đã học đủ tín chỉ các môn nhưng không học môn Kiến tập và thực tập thực tế. Cho em hỏi là có thể tốt nghiệp được không?
+Em đã tích đủ các tín chỉ môn học nhưng không đi thực tập thì em có thể ra trường, tốt nghiệp không ạ?
+tích lũy học đủ tính chỉ không học tốt nghiệp ra trường
+em không học môn thực tập thực tế nhưng đã tích đủ tín chỉ học phần, không biết em có đủ điều kiện tốt nghiệp không ạ?
+Để tốt nghiệp đại học thì có cần học môn Kiến tập nghề nghiệp không ạ?
+Để tốt nghiệp đại học thì có cần học môn thực tập thực tế không ạ?
+Em học đủ tính chỉ theo quy định rồi nhưng không chưa đi thực tập thì em có thể tốt nghiệp được chưa ạ?
+Cho em hỏi khi nào thì mình có đủ điều kiện để xét tốt nghiệp ạ?
+Điều kiện xét tốt nghiệp, công nhận tốt nghiệp
+Những điều kiện để xét tốt nghiệp đại học là gì ạ?
+Các tiêu chuẩn để công nhận tốt nghiệp ạ.
+Cho em hỏi thì khi nào có thể xét tốt nghiệp được ạ?
+Sinh viên phải làm những gì để được xét tốt nghiệp ạ
+Em muốn hỏi điểm thực hành em bị nhập thiếu một cột điểm, em muốn phúc khảo để được cột điểm đó em phải làm đơn phúc khảo bài thi cuối kỳ phải không ạ?
+Em muốn phúc khảo điểm thi thì làm như thế nào ạ?
+Làm gì để được phúc khảo điểm thi ạ?
+Khi nào có thể phúc khảo môn học được ạ?
+Em có thể gặp ai để xin phúc khảo môn học ạ?
+Phúc khảo điểm thi cần làm những gì ạ?
+làm gì, phúc khảo điểm thi, môn học
+Em làm đơn cho ai để phúc khảo điểm thi ạ?
+làm đơn, phúc khảo điểm thi, môn học, đăng ký
+em có thể đăng ký phúc khảo ở đâu ạ?
+cho em hỏi hiện tại e đang có nguy cơ bị buộc thôi học, nhưng e muốn được tiếp tục học, thầy cô cho em hỏi em liên hệ phòng đào tạo, thì cần làm những gì ? Liệu cơ hội em được tiếp tục học có được không ạ ? Em cám ơn thầy cô.
+Em bị buộc thôi học, giờ em muốn rút hồ sơ đóng dấu điểm để qua nước ngoài thì em phải làm thế nào ??
+Em bị đuổi học nhưng em muốn học lại thì có được không ạ?
+Em có nguy cơ bị đuổi học thì muốn học tiếp thì em phải làm sao ạ?
+Em bị buộc thôi học, em muốn rút hồ sơ khỏi trường thì phải làm gì ạ?
+Làm thế nào để rút hồ sơ, học bạ sau khi bị đuổi học
+Em nên làm thế nào để tiếp tục học sau khi bị đuổi học ạ ?
+Bị đuổi học rồi thì có thể đăng ký học lại tiếp tục không ạ?
+Bị đuổi học rồi thì em làm thế nào để tiếp tục học lại được ạ? em hoang mang quá
+Làm lại thẻ thư viện
+Em có thể làm thẻ thư viện ở đâu ạ?
+Thư viện trường là ở đâu ạ? 
+Làm thế nào em có thể sử dụng thư viện trường ạ?
+Thư viện trường ở Cơ sở Nguyễn văn cừ là ở đâu ạ?
+Thư viện Linh trung nằm ở đâu ạ?
+Thư viện cơ sở 1 là ở đâu ạ?
+Sử dụng thư viện như thế nào ạ?
+Hướng dẫn sử dụng thư viện
+Đăng ký thẻ thư viện ở đâu ạ?
+Làm thế nào để được mượn sách thư viện ạ?
+Mượn sách thư viện?
+Làm sao để mượn sách thư viện
+Làm sao để không bị trượt môn
+Làm sao để không bị học lại ạ?
+Làm sao để qua môn được ạ?
+Có cách nào để không bị rớt môn học không ạ?
+Có cách nào để không phải học lại không ạ?
+Cho em xin tips để không học lại môn ạ?
+Cho em xin tips để không bị rớt môn ạ?
+Tips học để không rớt môn
+Xin tips để học qua môn ?
+Xin tips để không học lại môn?
+Trường quá nhiều web như SAM, CTSV,...mỗi lần tìm chỗ thi là 1 lần quên phải reset mật khẩu vì cả năm mới vào 1 lần. Sao không gom lại?
+Có quá nhiều thông tin từ nhiều trang web của trường. Tại sao nhà trường không gom lại một trang web ?
+Có trang web nào tổng hợp thông tin cần thiết cho sinh viên không ạ?
+Trường có trang web nào tổng hợp thông tin không ạ ?
+Trang web tổng hợp thông tin trường
+trang web gom thông tin trường
+Em có ý kiến là nhà trường nên làm một trang web gom tất cả các thông tin lại vào một chỗ cho các bạn sinh viên dễ tìm kiếm
+Thầy cô cho em hỏi tại sao trường không gom tất cả các thông tin của trang web trường lại thành một ạ?
+Thầy cô cho em hỏi tại sao trường không tổng hợp tất cả các thông tin của trang web trường lại thành một ạ?
+Tổng hợp thông tin, trang web, trường 
+Giấy Xác Nhận Sinh Viên Ngoại Trú
+Giấy xác nhận ngoại trụ là gì ạ?
+Giấy xác nhận ngoại trú làm như thế nào ạ?
+Em không làm giấy xác nhận ngoại trú thì có bị gì không ạ?
+Em có thể làm giấy xác nhận ngoại trú ở đâu ạ?
+Làm giấy xác nhận ngoại trú thì cần làm những gì ạ ?
+Giấy đăng kí tạm trú tạm vắng
+Làm giấy đăng ký tạm trú, tạm vắng như thế nào ạ?
+em có thể làm giấy xác nhận sinh viên ngoại trú ở đâu ạ?
+Để làm giấy xác nhận ngoại trụ, hay tạm trú tạm vắng thì làm sao ạ?
+Em quên làm giấy ngoại trú thì có bị kỷ luật không ạ?
+Trường có bao nhiêu cơ sở, sinh viên sẽ học tại đâu?
+Địa chỉ của trường khoa học tự nhiên là ở đâu ạ?
+Địa chị cơ sở 2 của trường là ở đâu ạ? 
+Địa chị cơ sở 1 là ở đâu ạ?
+Địa chỉ để liên lạc với nhà trường là ở đâu ạ?
+Cơ sở 1 của trường nằm ở đâu ạ ? 
+Trường có mấy cơ sở ạ? Và sinh viên sẽ học ở đâu ?
+Năm nhất sinh viên sẽ học ở đâu ạ? 
+Cho em xin địa chỉ liên lạc của trường ạ?
+Liên lạc với nhà trường bằng cách nào ạ?
+Liên hệ với nhà trường bằng cách nào ạ?
+Cho em xin thông tin liên hệ với nhà trường?
+Thông tin liên hệ nhà trường
+Cho em hỏi rằng làm cách nào để gia hạn tài khoản này hoặc nếu phải đăng ký lại thì thủ tục như thế nào hay là phải đợi theo đợt của khoa
+Email sinh viên thì mình có đăng nhập và đổi mật khẩu rồi và quên rồi, hoặc có thể do mình không sử dụng thường xuyên nên bị khóa, cho mình hỏi làm sao để lấy lại đây.
+Email sinh viên của em không biết vì sao mà bị khóa, giờ em nên làm gì ạ?
+Email sinh viên, bị khóa, làm gì, lấy lại
+Email sv, bị khóa, làm gì, lấy lại
+Nên làm gì khi email sinh viên bị khóa ạ?
+Làm thế nào để lấy lại email sv bị khóa ạ?
+Email sv của em bị khóa, có cách nào để lấy lại không ạ?
+Do em không đăng nhập hay vì lí do gì mà giờ email sinh viên của em bị khóa r, thì em nên làm gì ạ?
+Khi ra trường thì tài khoản ofice có bị mất không ạ, còn dữ liệu lưu trữ trên onedrive sẽ như thế nào ạ. Và tài khoảng ondrive 1TB này có dùng đc nữa k ạ.
+Cho em hỏi thời hạn sử dụng của tài khoản OneDrive 365 của email sinh viên ạ.
+Thời hạn của OneDrive 365 của email sinh viên có thời hạn là bao lâu ạ?
+Khi tốt nghiệp thì OneDrive của email sv còn hoạt động không ạ?
+Khi ra trường thì dữ liệu lưu trên One Drive của email sv còn lưu lại không ạ?
+Hiệu lực sử dụng OneDrive email sv là bao lâu ạ?
+Các dữ liệu data em lưu trên onedrive  bằng email sinh viên sau khi ra trường còn lưu lại không ạ?
+Sau khi tốt nghiệp thì onedrive của email sinh viên còn hiệu lực không ạ?
+Onedrive còn sử dụng được sau khi tốt nghiêp?
+Onedrive còn sử dụng được sau khi ra trường?
+Em là khóa 15 đăng kí học lại môn học cùng khóa 16. Cho em hỏi là sao em không thể đăng ký môn trong moodle
+Cho em hỏi tại sao em không thể đăng ký  môn học lại ở moodle 
+Không thể đăng ký môn của khóa trước ở moodle
+Nhà trường cho em hỏi tại sao moodle em không thể đăng ký được các môn của khóa trước,
+Hiện tại thì em muốn đăng ký học  môn khóa trước trên moodle nhưng không được?
+Moodle không đăng ký được môn học của khóa trước
+Moodle không thể đăng ký học  các môn của khóa trước?
+Tại sao em đăng ký môn học của khóa trước trên moodle nhưng không thành công ạ?
+Làm thế nào khi các môn khóa trước không thể đăng ký trên moodle ạ?
+Khóa trước, moodle, môn học, đăng ký, không thành công
+Sai thông tin cá nhân trên moodle
+Thông tin cá nhân của em trên moodle bị sai ạ.
+Thông tin sinh viên trên moodle bị sai ạ 
+Thông tin của em trên moodle bị sai ạ.
+Làm sao em có thể sửa thông tin sai trên moodle ạ.
+Sai thông tin, moodle
+Làm sao để cập nhật lại những thông tin sai trên moodle ạ.
+Làm thế nào để hiệu chỉnh những thông tin sai trên moodle ạ?
+Thông tin trên moodle của em bị sai thì em nên làm thế nào ạ?
+Chỉnh sửa thông tin sai trên moodle 
+làm thế nào lấy lại được password moodle khi quên pass ?
+Em quên password moodle r thì làm sao để lấy lại được ạ ?
+Có cách nào lấy lại password của moodle không ạ?
+Làm thế nào để lấy lại password của moodle ạ?
+Quên password của moodle thì em phải làm sao ạ?
+Thầy cô cho em hỏi làm sao để em khôi phục được password của moodle ạ
+Khôi phục password moodle 
+Lấy lại password moodle 
+Em có thể lấy lại password moodle thông qua email sinh viên không ạ?
+Password moodle có thể khôi phục được không ạ?
+Em quên mất password của moodle giờ em phải làm sao ạ?
+Trang Portal để làm gì ạ?
+Thầy cô cho em hỏi portal dùng để làm gì ạ?
+Portal dùng để làm gì?
+Portal có chức năng gì ạ?
+cho em hỏi là portal dùng để làm gì ạ?
+trang web portal dùng để làm gì ạ?
+Trang web portal là gì ạ?
+Trang portal làm gì ?
+Trang portal có chức năng gì và dùng để làm gì ạ?
+Trang portal thì có chức năng gì cho sinh viên không ạ?
+Cho em hỏi portal của trường có chức năng coi  thời khóa biểu không ạ?
+Trang portal có thể xem điểm khảo sát không ạ?
+Trang portal có thể xem điểm rèn luyện được không ạ?
+Thầy/cô, anh/chị cho em hỏi, portal với email sinh viên dùng để làm gì?
+Em có thể sử dụng email sinh viên và moodle sau khi ra trường không ạ?
+email sinh viên, moodle, ra trường
+email sv, moodle, tốt nghiệp, ra trường
+Cho em hỏi thì khi tốt nghiệp các tài khoản như email sv còn xài được không ạ?
+Cho em hỏi thì khi ra trường các tài khoản email sv còn dùng được không ạ?
+Email sinh viên còn hiệu lực sau khi em đã tốt nghiệp không ạ ?
+Tài khoản Moodle còn hiệu lực sau khi em ra trường không ạ?
+Em muốn sử dụng lại email sinh viên sau khi em ra trường có được không ạ?
+Em có sử dụng được email sinh viên sau khi ra trường không ạ? 
+Thầy/cô, anh/chị cho em hỏi, làm thế nào để đăng ký học vượt ở bậc cao đẳng.
+đăng ký học vượt
+Thầy cô cho em hỏi làm thế nào để đăng ký học vượt ạ?
+Đăng ký học vượt thì cần làm những gì ạ ?
+Làm thế nào để đăng ký học vượt ạ?
+Chương trình cao đẳng có thể đăng ký học vượt không ạ ?
+Đăng ký học vượt có áp dụng đối với chương trình cao đẳng không ạ?
+Để đăng ký học vượt thì phải làm như thế nào ạ?
+Đăng ký học vượt thì cần làm giấy gì ạ?
+Đăng ký học vượt có áp dụng đối với hệ cđ không ạ?
+Em muốn hỏi: những môn toán mà khoa công nghệ thông tin phải học ở đại cương như giải tích b1, b2, toán rời rạc, đại số b1, xác suất thống kê b2 thì sẽ giúp ích gì cho các chuyên ngành, cũng như công việc sau này.
+Cho em hỏi học các môn toán ở năm nhất thì có giúp ích gì ngành học của mình sao này không ạ?
+Các môn đại cương như toán, giải tích, thì giúp ích gì cho các ngành khoa công nghệ thông tin ạ ?
+Ngành công nghệ thông tin học các môn toán như giải tích, đại số, xác suất thống kê để làm gì ạ ?
+Các môn toán thì có giúp ích gì cho ngành học sau này của mình ạ?
+Các môn toán ở năm nhất có thực sự cần thiết để học các môn chuyên ngành sau này không ạ?
+Cho em hỏi các môn toán học năm nhất có áp dụng được gì cho ngành công nghệ thông tin không ạ?
+Em muốn hỏi là em thuộc khoa công nghệ thông tin thì không biết học môn toán để làm gì ạ?
+Khoa công nghệ thông tin thì học toán áp dụng cho những lĩnh vực nào ạ?
+Muốn làm lại Thẻ sinh viên phải làm sao?
+Em vừa làm mất thẻ sinh viên,  muốn làm lại thì phải làm sao ạ?
+Thẻ sinh viên của em đã cũ. Em có thể làm lại cái mới không ạ ?
+Mất thẻ sinh viên, làm lại thẻ sinh viên
+làm lại thẻ sv vì bị mất thẻ sv
+làm lại thẻ sv vì thẻ sv cũ
+Em có thể làm lại thẻ sinh viên không ạ?
+Em muốn làm lại thẻ sv thì phải làm sao ạ?
+Làm lại thẻ sinh viên thì cần mang theo gì ạ?
+Bị mất thẻ sinh viên thì có thể làm lại được không ạ?
+Làm mất Thẻ SV có bị trừ điểm rèn luyện không?
+Em làm mất thẻ sinh viên, thì điểm rèn luyện của em có ảnh hưởng gì không ạ ?
+Mất thẻ sinh viên, điểm rèn luyện
+Mất thẻ sv, điểm rèn luyện
+Em mới mất thẻ sv, nếu làm lại thì em có bị trừ drl không ạ ?
+Nhà trường cho em hỏi là mất thẻ sinh viên, làm lại thì có bị trừ đrl không ạ?
+Làm mất thể sinh viên, làm lại thì có bị trừ drl không ạ?
+Làm lại thẻ sinh viên có bị trừ điểm rèn luyện không ạ?
+Mất thẻ sv, trừ drl
+Mất thẻ sinh viên, trừ drl 
+Xin xác nhận thư giới thiệu của giảng viên ở đâu?
+Em có thể xin xác nhận thư giới thiệu của giảng viên ở đâu ạ?
+Em có thể lấy thư giới thiệu của giảng viên ở đâu ạ?
+Bảng điểm học tập có cần xác nhận của Trường không?
+Bảng điểm có cần xác nhận của trường không ạ?
+Em muốn xin bảng điểm học tập để xin thực tập hè thì không biết bảng điểm có cần xác nhận của trường không ạ?
+Tiêu chuẩn để xét học bổng khuyết khích
+Điều kiện để xét học bổng khuyến khích
+Làm sao để được xét nhận học bổng khuyến khích
+Điều kiện để xét học bổng KK là gì ạ?
+Tiêu chuẩn để xét học bổng KK là gì ạ?
+Học bổng KK được xét như thế nào ạ?
+Học bổng khuyến khích được xét như thế nào ạ?
+Học bổng khuyến khích có tiêu chuẩn như thế nào ạ?
+Học bổng KK có tiêu chuẩn như thế nào ạ?
+Làm sao để xét nhận học bổng KK ạ?
+Tiêu chí để nhận học bổng kk là gì ạ?
+Tiêu chí để nhận học bổng khuyến khích?
+Làm sao để xin được học bổng kk ạ?
+Làm sao để xin được học bổng khuyến khích ạ?
+Cho em hỏi điểm rèn luyện học kì là gì ạ ?
+Điểm rèn luyện là gì ạ ?
+Ý nghĩa của điểm rèn luyện là gì ạ ?
+Điểm rèn luyện là gì và nó có quan trọng không ạ?
+Điểm rèn luyện là gì và nó có cần thiết không ạ?
+Cho em hỏi drl là gì ạ?
+cho em hỏi đrl là gì ạ?
+đrl là gì và nó có cần thiết không ạ?
+drl là gì và nó có cần thiết không ạ?
+ý nghĩa của drl là gì ạ ?
+ý nghĩa của đrl là gì ạ?
+Cho em hỏi thì drl có cần thiết trong quá trình học tập không ạ?
+Điểm rèn luyện là điểm gì vậy ạ?
+drl là điểm gì v ạ?
+Cho em hỏi drl là gì v ạ?
+Khung điểm rèn luyện bao nhiêu?
+Cho em xin khung của điểm rèn luyện
+Khung điểm rèn luyện là như thế nào vậy ạ?
+Cho em xin thang điêm rèn luyện ạ
+Thang điểm rèn luyện là như thế nào vậy ạ?
+Thang điểm rèn luyện được chia như thế nào vậy ạ?
+Khung đrl là gì ạ?
+Khung drl là gì ạ?
+Thang điểm của drl chia như thế nào ạ?
+Thang điểm của đrl được chia như thế nào ạ?
+Cho em xin khung drl với ạ 
+Cho em xin khung điểm đrl với ạ?
+không biết là điểm rèn luyện có khung điểm không ạ?
+khung điểm rèn luyện
+Cách phân loại điểm rèn luyện?
+Cách phân loại drl là như thế nào ạ?
+Cách phân loại đrl 
+Xếp hạng loại điểm rèn luyện
+Cách xếp hạng loại drl là gì ạ?
+Cách xếp hạng đrl là như thế nào ạ?
+Phân loại đrl
+Xếp loại đrl
+Xếp loại drl 
+Cho em xin cách xếp loại điểm rèn luyện với ạ
+Cho em xin cách xếp loại đrl với ạ?
+Các xếp loại của đrl là gì ạ?
+Điểm rèn luyện có ảnh hưởng đến kết quả tốt nghiệp không?
+đrl có ảnh hưởng gì đến kết quả tốt nghiệp không ạ?
+drl có ảnh hưởng gì đến kết quả tốt nghiệp không ạ?
+Điểm rèn luyện thấp thì có ảnh hướng đến kết quả tốt nghiệp không ạ?
+drl có được ghi vào bảng điểm tốt nghiệp không ạ?
+đrl có ảnh hưởng gì đến xếp loại tốt nghiệp không ạ?
+Điểm rèn luyện có được ghi vào bảng điểm tốt nghiệp không ạ?
+đrl có được ghi vào bảng điểm tốt nghiệp và ảnh hưởng gì tới kết quả tốt nghiệp không ạ?
+Điểm rèn luyện có ảnh hưởng đến xếp loại tốt nghiệp không ạ?
+ĐRL có ảnh hưởng gì tới kết quả học tập không ạ ?
+cho em hỏi là drl của mình có ảnh hưởng tới các điểm khác không ạ?
+Sinh viên thuộc diện hộ nghèo, hộ cận nghèo có được ưu tiên trong đánh giá kết quả rèn luyện không?
+Em là sinh viên thuộc diện hộ nghèo. Thầy cô cho em hỏi là em có được ưu gì trong việc đánh giá điểm rèn luyện không ạ?
+Gia đình em thuộc hộ cận nghèo thì không biết được ưu tiên trong việc đánh giá điểm rèn luyện không ạ?
+gia đình em thuộc diện hộ nghèo thì em có được hưởng chế độ ưu tiên trong việc đánh giá điểm rèn luyện không ạ?
+em là sinh viên có hoàn cảnh nghèo, khó khăn, thì không biết em có được ưu tiên gì trong việc đánh giá drl không ạ?
+em là sinh viên có hoàn cảnh nghèo, khó khăn, thì không biết em có được ưu tiên gì trong việc đánh giá  đrl không ạ?
+em là sv có hoàn cảnh khó khăn, không khá giả, thì em có được ưu tiên gì trong việc đánh giá điểm rèn luyện không ?
+em là sv có hoàn cảnh khó khăn, không khá giả, thì không biết em có được ưu tiên gì trong việc đánh giá drl không ạ?
+hoàn cảnh khó khăn, không khá giả, đánh giá điểm rèn luyện
+hoàn cảnh khó khăn, nghèo, diện nghèo, đánh giá drl,
+hoàn cảnh không khá giả, đánh giá đrl,
+hoàn cảnh không khá giá, khó khăn, đánh giá điểm rèn luyện
+Sinh viên bị khuyết tật, tàn tật có được ưu tiên trong đánh giá kết quả rèn luyện không?
+Em là sinh viên bị khuyết tật 10% thì không  biết Em có được ưu tiên gì khi đánh giá đrl không ạ?
+Em là sinh viên bị khuyết tật thì không biết em có được ưu tiên gì khi đánh giá drl không ạ?
+Em là sinh viên, thuộc diện bị khuyết tật. Em có được ưu tiên gì khi đánh giá điểm rèn luyện không ạ?
+em bị khuyết tật, không biết em có được ưu tiên gì trong đánh giá điểm rèn luyện không ạ?
+em bị khuyết tật, không biết em có được ưu tiên gì trong đánh giá đrl không ạ?
+khuyết tật, đánh giá đrl,
+khuyết tận, đánh giá điểm rèn luyện
+khuyết tật, đánh giá drl
+sinh viên bị khuyết tật, đánh giá drl
+sinh viên bị khuyết tật, đánh giá điểm rèn luyện
+Email sinh viên là gì?
+Cho em hỏi thì email sinh viên có dạng như thế nào ạ?
+Mật khẩu mặc định của email sinh viên là gì ?
+Email sinh viên đăng nhập như thế nào ạ?
+Email sinh viên có password như thế nào ạ?
+Email sinh viên đăng nhập như thế nào ạ?
+email sv đăng nhập
+email sv password là gì ạ?
+email sv mật khẩu là gì ạ?
+email sv là như thế nào ạ?
+email sv đăng nhập làm sao ạ ?
+Email sinh viên để làm gì?
+Cho em hỏi thì email sinh viên để làm gì ạ?
+Cho em hỏi thì email sinh viên có ý nghĩa gì ạ?
+cho em hỏi thì email sinh viên được dùng để làm gì ạ?
+cho em hỏi email sinh viên có công dụng gì ạ?
+Tại sao lại phải sử dụng email sinh viên ạ?
+Email sinh viên có cần thiết không ạ?
+Email sinh viên có tiện ích gì khác nữa không ạ?
+cho em hỏi email sv, ngoài chức năng gửi mail thì còn chức năng gì nữa không ạ?
+email sv có thực sự cần trong suốt quá trình học tập ở trường không ạ?
+Quên mật khẩu email sinh viên
+Em quên mật khẩu của email sinh viên thì làm như thế nào ạ?
+Giúp em với. Em quên mất mật khẩu của email sinh viên rồi ạ.
+Làm sao để khôi phục lại mật khẩu của email sinh viên ạ ?
+Quên password email sinh viên.
+Em quên password email sinh viên r.
+Làm thế nào để lấy lại password email sinh viên ạ?
+Làm thế nào để khôi phục mật khẩu email sinh viên ạ?
+Làm thế nào để lấy lại mật khẩu email sinh viên ạ?
+Mật khẩu email SV
+Quên mật khẩu email SV
+cho em hỏi 
+thầy cô cho em hỏi
+anh chị cho em hỏi
+a/c cho em hỏi
+bot cho em hỏi
+bot cho mình hỏi
+cho mình hỏi bot
+bot cho hỏi
+cho em xin hỏi
+bot cho em xin hỏi
+bot Chris cho em xin hỏi
+em cảm ơn ạ
+cảm ơn 
+tks
+mình cảm ơn
+em chào bot
+em chào admin
+em chào thầy
+em chào cô
+em chào thầy, cô
+em chào thầy cô
+em chào anh
+em chào chị
+em chào anh, chị
+em chào anh chị
+chào bot
+chào admin
+chào thầy
+chào cô
+chào thầy cô
+chào anh chị
+chào anh
+chào a
+hello a
+hello bot
+hello admin
+hello thầy
+hello cô
+hello thầy, cô
+hello anh, chị
+hello anh chị
+hello anh
+hello chị
+hi a 
+hi bot
+hi admin
+hi thầy
+hi cô
+hi thầy, cô
+hi anh, chị
+hi anh
+hi chị
+hi anh chị
+em xin chào thầy cô
+em xin chào bot
+em xin chào admin
+em xin chào thầy
+em xin chào cô
+em xin chào thầy, cô
+em xin chào anh
+em xin chào chị
+em xin chào anh, chị
+thầy, cô cho em hỏi
+anh, chị cho em hỏi
+thầy cho em hỏi
+cô cho em hỏi
+anh cho em hỏi
+chị cho em hỏi
+bot cho em hỏi
+admin cho em hỏi
