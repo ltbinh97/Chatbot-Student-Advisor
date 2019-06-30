@@ -7,7 +7,7 @@ import collections
 
 #Parameters 
 # pathCheckpoint = 'checkpoints_chatbot'
-pathCheckpoint = os.path.join(os.path.dirname(os.path.abspath(__file__)))
+pathCheckpoint = os.path.join(os.path.dirname(os.path.abspath(__file__)), "checkpoints")
 # file_path = './conversation_data/'
 
 # fromTxt = 'from.txt'
@@ -50,9 +50,9 @@ def build_dataset(words, n_words):
 # with open(file_path+toTxt, 'r') as fopen:
 #     text_to = fopen.read().lower().split('\n')
 
-with open(from_txt_path, 'r') as fopen:
+with open(from_txt_path, 'r', encoding = "utf8") as fopen:
     text_from = fopen.read().lower().split('\n')
-with open(to_txt_path, 'r') as fopen:
+with open(to_txt_path, 'r', encoding = "utf8") as fopen:
     text_to = fopen.read().lower().split('\n')
 
 concat_from = ' '.join(text_from).split()
@@ -155,9 +155,9 @@ def predict(sentence):
     result=' '.join(rev_dictionary_to[i] for i in log[0])
     return result
 
-checkpoint_file = tf.train.latest_checkpoint(pathCheckpoint, 'checkpoints')
+checkpoint_file = tf.train.latest_checkpoint(pathCheckpoint)
 saver = tf.train.import_meta_graph("{}.meta".format(checkpoint_file))
 saver.restore(sess, checkpoint_file)
     
-# print(predict('chào bot'))
-# print(predict('Cho em hỏi làm sao để được miễn giảm học phí'))
+print(predict('chào bot'))
+print(predict('Cho em hỏi làm sao để được miễn giảm học phí'))
