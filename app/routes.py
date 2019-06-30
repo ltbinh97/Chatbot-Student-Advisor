@@ -30,7 +30,9 @@ def bot():
     #region ADD BOT RESPONSE FUNCTION HERE
     #!/usr/bin/env python2
     # -*- coding: utf-8 -*-
+
     print( question )
     answer = predict(question)
+
     #endregion
     return jsonify({ "answer": answer })
