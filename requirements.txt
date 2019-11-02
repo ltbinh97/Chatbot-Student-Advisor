@@ -15,6 +15,6 @@ python-dotenv==0.9.1
 python-editor==1.0.3
 six==1.11.0
 SQLAlchemy==1.2.13
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 tensorflow==1.13.1
 numpy==1.16.4
